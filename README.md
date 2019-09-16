@@ -6,11 +6,10 @@
 ***
 |Author|Sun Haoliang|
 |---|---|
-
 |E-mail|Sunhl@outlook.com|
-*****
+**********************
 ## Timetable & Learning proiect
-* [1](#1-proiect)
-* [2-project]
+* [1-proiect](#1)
+* [2-project](#2)
 
 
