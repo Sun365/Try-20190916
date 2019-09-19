@@ -16,11 +16,11 @@
 <div align="right"> 
   
 |Author|Sun Haoliang|
-|---|---|
+|:---|:---|
 |E-mail|Sunhl@outlook.com|
 
-</div>
 **********************
+</div>
 
 ## Timetable & Learning proiect
 * [1-proiect](#1)
