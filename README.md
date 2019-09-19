@@ -23,7 +23,7 @@
 |:---|:---|
 |E-mail|Sunhl@outlook.com|
 
-**********************
+***
 
 
 ## Timetable & Learning proiect
