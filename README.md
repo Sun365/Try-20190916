@@ -4,7 +4,7 @@
 # Learning Deep Learning
 <div align="right">
   
-`Serial number: 20190916`
+`Serial Number: 20190916`
 
 </div>
 </div>
