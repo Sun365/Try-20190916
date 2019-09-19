@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" width="100" alt="LOGO"/>
+<img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" width="100" alt="LOGO"/>MoTe
 
 # Learning Deep Learning
 
@@ -14,7 +14,7 @@
 &#8195;&#8195;该文件用来记录我学习深度学习的过程，用来鞭策和激励自己，想通过学习深度学习获得更多实用技能，并且提升自己的学习能力，深化机器学习的应用空间.
 <br>
 &#8195;&#8195;
-试试换行和首行缩进，分别使用\" \<br> \"和\" \&#8195;\&#8195; \"
+试试换行和首行缩进（或者叫空格），分别使用\" \<br> \"和\" \&#8195;\&#8195; \"
 
 ***
 
