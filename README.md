@@ -1,4 +1,4 @@
-<img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" width="600" alt="LOGO"/>
+<img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" width="100" alt="LOGO"/>
 
 # Learning Deep Learning
 `Serial number: 20190916`
