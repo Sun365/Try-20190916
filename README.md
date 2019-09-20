@@ -31,9 +31,11 @@ Author|Sun Haoliang|a
 
 ### 1
 
-```yellow5html
+```
 sdf
 ```
+
+![baidu][baidu-logo] 
 
 ```sdf```
 
