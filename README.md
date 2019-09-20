@@ -68,3 +68,7 @@ sdf
 ![s](https://thumbs.dreamstime.com/t/浣熊小猫缅因-132642039.jpg)![s](https://thumbs.dreamstime.com/t/浣熊小猫缅因-132642039.jpg)![s](https://thumbs.dreamstime.com/t/浣熊小猫缅因-132642039.jpg)
 
 成功了！
+
+### 6 三图一行均匀分布
+
+<align=left><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200"><align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100"><align=right><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="50">
