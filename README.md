@@ -63,8 +63,8 @@ sdf
 
 ### 5 换个思路
 
-<<div align=left><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200">><<div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100">><<div align=right><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="50">></div></div>
+<img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200"><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100"><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="50">
 
-![Download](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)(http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)(http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)
+![Download](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)![](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)![](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)
 
 
