@@ -24,10 +24,10 @@ Author|Sun Haoliang|a
 
 ## Timetable & Learning Project
 
-* [1-proiect](#1)
+* [1-proiect of Pictures](#1)
 * [2-project](#2)
 
-### 1
+### 1 一图调位置和尺寸
 
 ```
 sdf
@@ -46,11 +46,16 @@ sdf
 
 <img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width = "400" height = "260" alt="图片名称"/>
 
-### 2
+### 2 一行代码一张图
 
 <div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="300"/></div>
 
+### 3 三图并列
 
-三图并列
 <div align=left><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="300"/><div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="300"/><div align=right><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="300"/></div>
 
+### 4 三图是否能一行
+改一下图片尺寸，说不定能挤到一行
+<div align=left><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200"/><div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100"/><div align=right><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="50"/></div>
+  
+  
