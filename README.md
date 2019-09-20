@@ -57,6 +57,10 @@ sdf
 
 ### 4 三图是否能一行
 改一下图片尺寸，说不定能挤到一行
-<div align=left><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200"/><div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100"/><div align=right><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="50"/></div>
+<div align=left><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200"/><div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100"/><div align=right><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="50"/></div></div>
   
-  
+失败了
+
+### 5 换个思路
+
+<div align=left><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200"><div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100"><div align=right><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="50"></div></div>
