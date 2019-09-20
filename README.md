@@ -71,4 +71,4 @@ sdf
 
 ### 6 三图一行均匀分布
 
-<div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200"><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100"><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="50">
+<div align=distribute><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200"><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100"><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="50">
