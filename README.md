@@ -1,4 +1,4 @@
-<img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" name=MoTe width=100 alt=100 align=center/>MoTe
+<img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" name=MoTe width=100 align=center/>MoTe
 
 # Learning Deep Learning
 
