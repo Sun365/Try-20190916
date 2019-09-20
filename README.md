@@ -34,7 +34,7 @@ Author|Sun Haoliang|a
 ```
 sdf
 ```
-<div align="center" width="100"> 
+<div align="center"> 
   
 ![](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg width="100") 
 
