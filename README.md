@@ -63,4 +63,4 @@ sdf
 
 ### 5 换个思路
 
-<div align=left><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200"><div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100"><div align=right><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="50"></div></div>
+<<div align=left><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200">><<div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100">><<div align=right><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="50">></div></div>
