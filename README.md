@@ -50,4 +50,7 @@ sdf
 
 <div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="300"/></div>
 
-234
+
+三图并列
+<div align=left><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="300"/><div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="300"/><div align=right><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="300"/></div>
+
