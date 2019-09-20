@@ -48,4 +48,4 @@ sdf
 
 ### 2
 
-<div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="600"/></div>
+<div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="1600"/></div>
