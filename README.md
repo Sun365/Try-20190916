@@ -35,7 +35,7 @@ Author|Sun Haoliang|a
 sdf
 ```
 
-![baidu-logo](https://cn.bing.com/images/search?view=detailV2&ccid=CGkTsQar&id=7819CC7249CFB36DA5B46BAD030749B18CF79A85&thid=OIP.CGkTsQarHi61F6KCgDVgHAHaEL&mediaurl=http%3a%2f%2fimg.scsa.org.cn%2fmaterial%2fnews%2fimg%2f650x%2f2017%2f11%2f20171117135611YCef.jpg%3fGeNv&exph=367&expw=650&q=%e4%b8%8a%e6%b5%b7%e5%ad%a6%e7%94%9f%e4%ba%8b%e5%8a%a1%e7%ae%a1%e7%90%86%e4%b8%ad%e5%bf%83&simid=607999387747618328&selectedIndex=8&ajaxhist=0) 
+![](http://img.scsa.org.cn/material/news/img/650x/2017/11/20171117135611YCef.jpg?GeNv) 
 
 ```sdf```
 
