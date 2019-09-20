@@ -52,7 +52,7 @@ sdf
 
 ### 3 三图并列
 
-<div align=left><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="300"/><div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="300"/><div align=right><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="300"/>
+<div align=left><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="300"/><div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="300"/><div align=right><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="300"/></div>
 </div>
 
 ### 4 三图是否能一行
