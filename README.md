@@ -18,9 +18,9 @@
 ***
 
   
-|Author|Sun Haoliang|
-|:---|:---|
-|E-mail|Sunhl@outlook.com|
+Author|Sun Haoliang
+:---|:---
+E-mail|Sunhl@outlook.com
 
 ***
 
