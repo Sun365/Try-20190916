@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" width="100" alt="LOGO"/>MoTe
+<img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" MoTe width="100" alt="LOGO"/>MoTe
 
 
 
@@ -36,7 +36,7 @@ sdf
 ```
 <div align="center"> 
   
-![](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg) (width="100)
+![](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg) width=100
 
 </div>
 
