@@ -65,6 +65,6 @@ sdf
 
 <img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200"><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100"><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="50">
 
-![Download](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)![](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)![](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)
+![](http://www.panda.org.cn/china/news/edit/UploadFile/2008331103435990.jpg)![](http://www.panda.org.cn/china/news/edit/UploadFile/2008331103435990.jpg)![](http://www.panda.org.cn/china/news/edit/UploadFile/2008331103435990.jpg)
 
 
