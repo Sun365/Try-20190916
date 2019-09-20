@@ -34,7 +34,7 @@ sdf
 ```
 <div align="center"> 
  
-[浣熊]![浣熊](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)
+[浣熊](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)
 
 </div>
 
