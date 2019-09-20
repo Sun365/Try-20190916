@@ -35,7 +35,7 @@ sdf
 <div align="center"> 
 <img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="150">
   
-[Download](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)
+[Download](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 
 </div>
 
