@@ -35,7 +35,7 @@ sdf
 <div align="center"> 
 <img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="150">
   
-[Download](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+[Download](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)
 
 </div>
 
@@ -64,3 +64,7 @@ sdf
 ### 5 换个思路
 
 <<div align=left><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200">><<div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100">><<div align=right><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="50">></div></div>
+
+![Download](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)(http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)(http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)
+
+
