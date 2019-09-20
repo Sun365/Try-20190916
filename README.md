@@ -31,7 +31,7 @@ Author|Sun Haoliang|a
 
 ### 1
 
-````````angular html
+````````html
 sdf
 ````````
 
