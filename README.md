@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" width="200">MoTe
+<img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" width="150">MoTe
 
 # Learning Deep Learning
 
@@ -34,8 +34,7 @@ sdf
 ```
 <div align="center"> 
  
-![浣熊](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)
-<img width="200">
+[浣熊]![浣熊](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)
 
 </div>
 
