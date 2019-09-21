@@ -1,8 +1,6 @@
 <div align="center">
-<img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" width="150">MoTe
-
-# Learning Deep Learning
-
+  <img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" width="150">MoTe
+   # Learning Deep Learning
 </div>
 
 <div align="right">
@@ -34,6 +32,7 @@ sdf
 ```
 <div align="center"> 
 <img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="150">
+
 [Download](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)
 </div>
 
