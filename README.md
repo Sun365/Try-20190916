@@ -1,7 +1,10 @@
+readme 
+====================
 <div align="center">
   <img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" width="150">MoTe
-   
-readme Learning Deep Learning
+  
+Learning Deep Learning
+================
 </div>
 
 <div align="right">
@@ -74,4 +77,5 @@ sdf
 
 
 [Back](#Timetable)
+
 [回到顶部](#readme)
