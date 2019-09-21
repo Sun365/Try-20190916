@@ -1,7 +1,7 @@
 :relaxed: Readme
 --
 <div align="center">
-  <img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" width="150">MoTe
+<img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" width="150">MoTe
   
 Learning Deep Learning
 ================
@@ -24,11 +24,12 @@ Author|Sun Haoliang|a
 ***
 
 
-## Timetable & Learning Project
+## 目录
+Timetable & Learning Project
 
-[1-proiect of Pictures](#1)
+* [1-proiect of Pictures](#1)
 
-[6-project](#6)
+* [6-project](#6)
 
 ### 1 一图调位置和尺寸
 
@@ -74,11 +75,11 @@ sdf
 ### 6 三图一行均匀分布
 
 <div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200"><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100"><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="50"></div>
-  </div>
+</div>
 
 <div align="right">
 
-[Back](#timetable&learningproject)
+[Back](#目录)
 
 [Back Top](#readme)
 
