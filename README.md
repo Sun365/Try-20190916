@@ -1,5 +1,5 @@
 :relaxed:
-<br>
+
 Readme
 --
 <div align="center">
@@ -28,8 +28,8 @@ Author|Sun Haoliang|a
 
 ## Timetable & Learning Project
 
-* [1-proiect of Pictures](#1)
-* [6-project](#6)
+[1-proiect of Pictures](#1)
+[6-project](#6)
 
 ### 1 一图调位置和尺寸
 
@@ -79,7 +79,7 @@ sdf
 
 <div align="right">
 
-[Back](#timetable)
+[Back](#timetable & learning project)
 
 [Back Top](#readme)
 
