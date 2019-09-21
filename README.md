@@ -24,8 +24,7 @@ Author|Sun Haoliang|a
 ***
 
 
-## 目录
-Timetable & Learning Project
+## 目录 Timetable & Learning Project
 
 * [1-proiect of Pictures](#1)
 
@@ -79,7 +78,7 @@ sdf
 
 <div align="right">
 
-[Back](#该文)
+[Back](#目录)
 
 [Back Top](#readme)
 
