@@ -24,7 +24,7 @@ Author|Sun Haoliang|a
 ***
 
 
-## 目录 Timetable & Learning Project
+## 目录 Timetable and Learning Project
 
 * [1-proiect of Pictures](#1)
 
