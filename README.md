@@ -25,7 +25,7 @@ Author|Sun Haoliang|a
 ## Timetable & Learning Project
 
 - [1-proiect of Pictures](#1)
-- [2-project](#2)
+- [6-project](#6)
 
 ### 1 一图调位置和尺寸
 
@@ -34,9 +34,7 @@ sdf
 ```
 <div align="center"> 
 <img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="150">
-  
 [Download](http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg)
-
 </div>
 
 ``` sdf ```
