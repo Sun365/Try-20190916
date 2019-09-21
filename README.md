@@ -23,8 +23,8 @@ Author|Sun Haoliang|a
 
 ## Timetable & Learning Project
 
-- [1-proiect of Pictures](#1)
-- [6-project](#6)
+* [1-proiect of Pictures](#1)
+* [6-project](#6)
 
 ### 1 一图调位置和尺寸
 
@@ -73,4 +73,4 @@ sdf
   </div>
 
 
-- [Back](#Timetable)
+* [Back](#Timetable)
