@@ -1,6 +1,4 @@
-:relaxed:
-
-Readme
+:relaxed: Readme
 --
 <div align="center">
   <img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" width="150">MoTe
@@ -29,6 +27,7 @@ Author|Sun Haoliang|a
 ## Timetable & Learning Project
 
 [1-proiect of Pictures](#1)
+
 [6-project](#6)
 
 ### 1 一图调位置和尺寸
