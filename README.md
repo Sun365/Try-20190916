@@ -81,8 +81,6 @@ sdf
 
 <div align="right">
 
-[`Back`](#Timetable-and-Learning-Project)
-
-[`Back Top`](#readme)
+[`Back to Contents`](#Timetable-and-Learning-Project) [`Back to Top`](#readme)
 
 </div>
