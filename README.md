@@ -24,7 +24,7 @@ Author|Sun Haoliang|a
 ***
 
 
-## Contents 
+# Contents 
 
 Timetable and Learning Project
 ---
@@ -35,7 +35,7 @@ Timetable and Learning Project
 
 * [6-project](#6-三图一行均匀分布)
 
-### 1 一图调位置和尺寸
+## 1 一图调位置和尺寸
 
 ```
 sdf
@@ -53,23 +53,23 @@ sdf
 
 <img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width = "400" height = "260" alt="图片名称"/>
 
-### 2 一行代码一张图
+## 2 一行代码一张图
 
 <div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="300"/></div>
 
-### 3 三图并列
+## 3 三图并列
 
 <div align=left><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="300"/><div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="300"/><div align=right><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="300"/></div>
 </div>
 
-### 4 三图是否能一行
+## 4 三图是否能一行
 
 改一下图片尺寸，说不定能挤到一行
 <div align=left><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200"/><div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100"/><div align=right><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="50"/></div></div>
   
 失败了
 
-### 5 换个思路
+## 5 换个思路
 
 <img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200"><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100"><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="50">
 
@@ -77,13 +77,13 @@ sdf
 
 成功了！
 
-### 6 三图一行均匀分布
+## 6 三图一行均匀分布
 
 <div align=center><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="200"><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="100"><img src="http://k.zol-img.com.cn/sjbbs/6875/a6874935_s.jpg" width="50"></div>
 </div>
 
 <div align="right">
 
-[`Back to Contents`](#Timetable-and-Learning-Project) [`Back to Top`](#readme)
+[`Back to Contents`](#Contents) [`Back to Top`](#readme)
 
 </div>
