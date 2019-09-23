@@ -27,11 +27,10 @@ Author|Sun Haoliang|a
 # Contents 
 Timetable and Learning Project
 
-* [1-proiect of Pictures](#1-一图调位置和尺寸)
-* [2 一行代码一张图](#2-一行代码一张图)
-* [3 三图并列](#3-三图并列)
-
-* [6-project](#6-三图一行均匀分布)
+[1-proiect of Pictures](#1-一图调位置和尺寸)
+[2 一行代码一张图](#2-一行代码一张图)
+[3 三图并列](#3-三图并列)
+[6-project](#6-三图一行均匀分布)
 
 ## 1 一图调位置和尺寸
 
