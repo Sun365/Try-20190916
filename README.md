@@ -1,7 +1,7 @@
 :relaxed: Readme <!-- Emoji cheat sheet https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 --
 <div align="center">
-<img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" width="150">MoTe
+<img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" width="150">MoT
   
 Learning Deep Learning
 ================
@@ -25,7 +25,7 @@ Author|Sun Haoliang|a
 
 
 # Contents 
-Timetable and Learning Project
+*    Timetable and Learning Project
 
 [1-proiect of Pictures](#1-一图调位置和尺寸)<br>
 [2 一行代码一张图](#2-一行代码一张图)<br>
