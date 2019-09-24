@@ -111,3 +111,13 @@ sdf
   
 [:arrow_heading_up:`Contents`](#Contents) [:arrow_up:`Top`](#readme)
 </div>
+
+## 7 python学习
+
+### 基础
+
+转义符号 \
+
+```
+'I\'m \"OK"!'
+```
