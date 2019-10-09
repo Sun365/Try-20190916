@@ -1,6 +1,6 @@
 :relaxed: Readme <!-- Emoji cheat sheet https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 ---
-自己的学习日志
+自己的学习日志<br>https://github.com/Sun365/Try-20190916
 
 <div align="center">
 <img src="https://github.com/Sun365/Try-20190916/blob/master/logo.jpg" width="150">MoT
